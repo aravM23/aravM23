@@ -1,8 +1,8 @@
-## Hi there 👋 I am Arav 😀
+# Hi there 👋 I am Arav 😀
 
 I am an AI for good change maker, Author of two original publications, founder of a Microsoft-backed Startup, Environmental Activist, and philanthropist. I aim to help solve the world's biggest problems using emerging technologies, creating projects to disrupt and redefine industries, including education, healthcare, and mental health.
 
-# About me
+## About me
 - 🔭 I’m currently working on TurtleShell, my Tourist Safety AI Startup backed by Microsoft with $26,000 in funding
 - 🌱 I’m learning about advanced machine learning models and neural networks
 - 🏢 I’m working as a Data Collection/Engineering Intern at [Aview International](https://aviewint.com/)

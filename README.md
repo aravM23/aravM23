@@ -8,7 +8,6 @@ I am an AI for good change maker, Author of two original publications, founder o
 - 🏢 I’m working as a Data Collection/Engineering Intern at [Aview International](https://aviewint.com/)
 - 🤔 I’m a Research Assistant at the University of Toronto, working on [limiting suicidal ideation among youth](https://medium.com/@aravmathur23/an-implication-of-artificial-intelligence-to-limit-cases-of-suicidal-attempts-c9338777eaf6)
 - 💬 I'm the founder of my Non-profit organization, [Positive Powers](https://positivepowers.vercel.app/). I have raised over $10,000 in funding for the organization and have run positivity-spreading initiatives across Canada and even Internationally
-- 😄 I have authored [two original dystopian-style novels](https://www.amazon.ca/Unforged-Truth-Rebellion-against-Injustice-ebook/dp/B08HGHGSD9) available on Amazon's Kindle across the world
 - 📖 Fun fact: I have authored [two original dystopian-style novels](https://www.amazon.ca/Unforged-Truth-Rebellion-against-Injustice-ebook/dp/B08HGHGSD9) available on Amazon's Kindle across the world
 - 📫 I also write about my projects/experiences on Medium; feel free to leave a [follow](https://medium.com/@aravmathur23)
 - 📄 Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arav-m-0567bb26a/)!

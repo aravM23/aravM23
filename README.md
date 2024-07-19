@@ -11,3 +11,5 @@ I am an AI for good change maker, Author of two original publications, founder o
 - 📖 Fun fact: I have authored [two original dystopian-style novels](https://www.amazon.ca/Unforged-Truth-Rebellion-against-Injustice-ebook/dp/B08HGHGSD9) available on Amazon's Kindle across the world
 - 📫 I also write about my projects/experiences on Medium; feel free to leave a [follow](https://medium.com/@aravmathur23)
 - 📄 Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arav-m-0567bb26a/)!
+
+Learn more about me by visiting my website: https://aravmathur.vercel.app/

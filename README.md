@@ -68,8 +68,6 @@ Fun fact: I've published [two dystopian fiction novels](https://www.amazon.ca/Un
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aravM23&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aravM23&theme=radical&hide_border=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aravM23&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)

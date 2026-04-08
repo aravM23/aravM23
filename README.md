@@ -5,7 +5,7 @@ I'm studying Computer Science @ UWaterloo.
 I love building and bringing crazy ideas to life.
 
 **Here's a tldr about me:**
-- 💰 Raised $100K from Peter Thiel-backed [1517 Fund](https://www.1517fund.com/) for my startup
+- 💰 Raised $150K from Peter Thiel-backed [1517 Fund](https://www.1517fund.com/) and BoostVC for my startup GrayPass
 - 📈 Went viral on Instagram overnight (75K views in 12 hours)
 - 🚀 Got my first VC cheque at 15 to build a tourist safety app
 - 🎓 Studying CS @ Waterloo
